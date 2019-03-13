@@ -1,4 +1,4 @@
-# ImageGallery
+# ImageGallery Using React
 Pixels.com kind app 
 # Make sure you get the Authorization key from Pixels.com and add them into Pixel.js file
 # To run the Application
